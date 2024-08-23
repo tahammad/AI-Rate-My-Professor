@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "review": "Great professor! Her lectures are very clear and well-structured.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Alan Brown",
+        "review": "The lectures are sometimes hard to follow, but he's always willing to help during office hours.",
+        "subject": "Mathematics",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Lisa Wong",
+        "review": "Fantastic instructor! She makes difficult topics easy to understand.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. John Miller",
+        "review": "Not a fan of his teaching style. He tends to rush through the material.",
+        "subject": "Physics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Sara Lee",
+        "review": "Her classes are very engaging and she provides great resources.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Mark Davis",
+        "review": "Very knowledgeable, but sometimes the lectures are a bit dry.",
+        "subject": "History",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Nancy Green",
+        "review": "Super friendly and always willing to help out. Highly recommend!",
+        "subject": "English Literature",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. William Harris",
+        "review": "I found his lectures to be quite confusing and unorganized.",
+        "subject": "Economics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Megan Clark",
+        "review": "Excellent teacher. Really knows how to explain the material clearly.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. James Young",
+        "review": "His exams are very tough, but you learn a lot in his class.",
+        "subject": "Philosophy",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Patricia King",
+        "review": "Very approachable and makes the class enjoyable.",
+        "subject": "Sociology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Robert Scott",
+        "review": "Lectures are interesting, but the grading is quite strict.",
+        "subject": "Political Science",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Laura Adams",
+        "review": "Great professor, but the class workload is heavy.",
+        "subject": "Environmental Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Michael Baker",
+        "review": "Not a very engaging lecturer. I struggled to stay focused.",
+        "subject": "Statistics",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Anna Martinez",
+        "review": "Wonderful professor! Always makes time for students.",
+        "subject": "Anthropology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Steven Thompson",
+        "review": "The course was okay, but I didn't find his lectures very interesting.",
+        "subject": "Geology",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Kimberly White",
+        "review": "Amazing teacher, very passionate about the subject!",
+        "subject": "Music",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Thomas Moore",
+        "review": "His lectures are very theoretical and difficult to understand.",
+        "subject": "Law",
+        "stars": 2
+      },
+      {
+        "professor": "Dr. Jennifer Taylor",
+        "review": "Very detailed lectures and a fair grader.",
+        "subject": "Art History",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Richard Evans",
+        "review": "Knowledgeable, but sometimes goes off on tangents.",
+        "subject": "Philosophy",
+        "stars": 3
+      }
+    ]
+  }
+  
